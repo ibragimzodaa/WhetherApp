@@ -57,13 +57,12 @@ input{
     font-size: 18px;
 }
 .wd{
-    left: 20px;
+    right: 250px;
     top: 170px;
     font-size: 28px;
 }
 .date{
-    left: 20px;
-    width: 200px;
+    right: 250px;
     top: 220px;
     font-size: 18px;
 }
